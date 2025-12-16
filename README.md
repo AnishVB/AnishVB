@@ -48,5 +48,4 @@
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=uu5qwj9cj76ee9b9inkh6q34z&count=3" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
