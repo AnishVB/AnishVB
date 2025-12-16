@@ -1,11 +1,9 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Anish+Verma+Bhupathiraju;woah+cool+profile" />
 </p>
 
 <br/>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/anishvb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="95" height="25" />
@@ -26,7 +24,6 @@
 <hr style="border: 0.5px solid #30363d;">
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,php,mysql,opencv,arduino,blender,ps,pr&theme=dark" />
 </div>
@@ -35,14 +32,18 @@
 <hr style="border: 0.5px solid #30363d;">
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnishVB&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
 </div>
 
 <br/>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVB&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVB&theme=github-dark&hide_border=true" />
 </p>
@@ -51,14 +52,6 @@
 <hr style="border: 0.5px solid #30363d;">
 <br/>
 
-<!-- ===================== SPOTIFY ===================== -->
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=uu5qwj9cj76ee9b9inkh6q34z&count=3" />
 </div>
-
-<br/>
-
-<!-- ===================== VISITOR COUNTER ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnishVB&style=flat&color=58A6FF" />
-</p>
