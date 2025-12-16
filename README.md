@@ -41,7 +41,8 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnishVB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnishVB&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
+</div>  
 
 <br/>  
 
