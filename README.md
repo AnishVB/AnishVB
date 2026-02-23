@@ -26,17 +26,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=60&section=divider" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishVB&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
-</div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVB&layout=compact&hide_border=true&theme=github_dark" />
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVB&theme=github-dark&hide_border=true" />
@@ -44,6 +35,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=60&section=divider" />
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=uu5qwj9cj76ee9b9inkh6q34z&count=3" />
-</div>
+
