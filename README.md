@@ -33,6 +33,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVB&theme=github-dark&hide_border=true" />
 </p>
 
+<div align ="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=AnishVB&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnishVB&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVB&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=60&section=divider" />
 
 
